@@ -5,7 +5,6 @@ Date:04/03/2016
 
 Basic Indicators of Compromise (IOCs) information provider.
 
-Zendesk internship coding challenge.
 
 """
 
